@@ -5,7 +5,7 @@
 // 提示: String.includes, String.split
 
 
-let calc = function (calcString: string) {
+let calc = function (calcString: String) {
 
 }
 
